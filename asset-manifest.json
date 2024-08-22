@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart-using-ReactJS/static/css/main.e62a8f5f.css",
+    "main.js": "/Shopping-Cart-using-ReactJS/static/js/main.3662f6a4.js",
+    "static/media/jacopo-maiarelli--gOUx23DNks-unsplash.jpg": "/Shopping-Cart-using-ReactJS/static/media/jacopo-maiarelli--gOUx23DNks-unsplash.eef490a6c5d5fc2534e5.jpg",
+    "index.html": "/Shopping-Cart-using-ReactJS/index.html",
+    "main.e62a8f5f.css.map": "/Shopping-Cart-using-ReactJS/static/css/main.e62a8f5f.css.map",
+    "main.3662f6a4.js.map": "/Shopping-Cart-using-ReactJS/static/js/main.3662f6a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e62a8f5f.css",
+    "static/js/main.3662f6a4.js"
+  ]
+}
